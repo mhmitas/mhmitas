@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Mahfuzul Hoque Mitas
 Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%">
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50%">
 
 ## Skills
 

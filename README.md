@@ -73,3 +73,5 @@
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
 - 📫 How to reach me: [Email](mahfuzulmitas@gmail.com)
 - 😄 Pronouns: He/Him
+
+<h4>Thanks for visiting my profile! 😊</h4>

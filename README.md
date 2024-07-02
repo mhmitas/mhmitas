@@ -1,8 +1,6 @@
 # Hi there 👋, I'm Mahfuzul Hoque Mitas
 Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.
 
-<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="50%">
-
 ## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,9 +34,8 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhmitas24)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://mhmitas.vercel.app)
 
 <!--
 **mhmitas/mhmitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

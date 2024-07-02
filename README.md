@@ -41,6 +41,8 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="70"
             height="70" /> </a>
+   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img
+                src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="70" height="70" /> </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="70" />
     </a>

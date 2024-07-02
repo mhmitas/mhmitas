@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
             alt="css3" width="70" height="70" /></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="70" height="70" /> </a>
+            alt="javascript" width="60" height="60" /> </a>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
             alt="react" width="70" height="70" /> </a>

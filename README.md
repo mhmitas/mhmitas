@@ -1,8 +1,9 @@
 <div align="center">
- <h1>Hi there 👋, I'm Mahfuzul Hoque Mitas</h1>
+ <h1>Hi there <img src="https://github.com/mhmitas/mhmitas/blob/main/hi.gif?raw=true" width="50px" height="50px" alt="👋">, I'm Mahfuzul Hoque Mitas</h1>
  <h3>Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.</h3>
 </div>
-
+<!-- 👋 -->
+<br/><br/>
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -37,15 +38,17 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 -->
+<br/><br/>
+
 
 <!-- -->
-<h3>📈 GitHub Stats</h3>
+<h3 align="center">📈 GitHub Stats</h3>
 <!-- ![](https://github-readme-stats.vercel.app/api?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmitas&theme=default&hide_border=false"></div>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmitas&theme=default&hide_border=false" alt="mh-mitas"></div>
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
-<!-- -->
 
- # Languages and Tools
+
+<br/><br/>
 
 <!-- -->
 
@@ -53,6 +56,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmitas24)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-47A248?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhmitas.vercel.app)
+
+<br/><br/>
 
 
 <!--

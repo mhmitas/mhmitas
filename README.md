@@ -1,4 +1,5 @@
 # Hi there 👋, I'm Mahfuzul Hoque Mitas
+Welcome to my GitHub profile! I'm a passionate Frontend Developer who loves creating beautiful and performant web applications.
 
 <!--
 **mhmitas/mhmitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

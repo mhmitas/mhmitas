@@ -1,5 +1,8 @@
-# Hi there 👋, I'm Mahfuzul Hoque Mitas
-Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.
+<div align="center">
+ <h1>Hi there 👋, I'm Mahfuzul Hoque Mitas</h1>
+ <h3>Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.</h3>
+</div>
+
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,10 +39,10 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 -->
 
 <!-- -->
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mhmitas&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3>📈 GitHub Stats</h3>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/> -->
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mhmitas&theme=default&hide_border=false"></div>
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmitas&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 <!-- -->
 
  # Languages and Tools

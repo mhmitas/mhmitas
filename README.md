@@ -8,6 +8,12 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 
 <!-- -->
+## 📈 GitHub Stats
+
+![John Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical)
+
+<!-- -->
 
 ## 🔗 Connect with Me
 

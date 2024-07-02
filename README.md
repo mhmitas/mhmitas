@@ -71,5 +71,5 @@
 - 🌱 I’m currently learning Next.js features and reviseing JS, react, mongodb.
 - 👯 I’m looking for a job or intern.
 - 💬 Ask me about web development, JavaScript, or any tech-related topics.
-- 📫 How to reach me: [Your Email](mahfuzulmitas@gmail.com)
+- 📫 How to reach me: [Email](mahfuzulmitas@gmail.com)
 - 😄 Pronouns: He/Him

@@ -1,3 +1,6 @@
+![Banner Image](https://github.com/mhmitas/mhmitas/blob/main/banner-git.jpg)
+
+
 <div align="center">
  <h1>Hi there <img src="https://github.com/mhmitas/mhmitas/blob/main/hi.gif?raw=true" width="50px" height="50px" alt="👋">, I'm Mahfuzul Hoque Mitas</h1>
  <h3>Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.</h3>

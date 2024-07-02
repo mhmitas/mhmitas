@@ -3,8 +3,8 @@
  <h3>Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.</h3>
 </div>
 
-<!-- <br/><br/>
-<picture>
+<br/><br/>
+<!--  <picture>
   <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
 </picture> -->
@@ -65,17 +65,11 @@
 <br/><br/>
 
 
-<!--
-**mhmitas/mhmitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on enhancing my skills in full-stack development.
+- 🌱 I’m currently learning Next.js features and reviseing JS, react, mongodb.
+- 👯 I’m looking for a job or intern.
+- 💬 Ask me about web development, JavaScript, or any tech-related topics.
+- 📫 How to reach me: [Your Email](mahfuzulmitas@gmail.com)
+- 😄 Pronouns: He/Him

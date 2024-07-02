@@ -7,6 +7,13 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 - **Frameworks/Libraries**: ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 - **Tools**: ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
 
+<!-- -->
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=flat&logo=web&logoColor=white)](https://yourportfolio.com)
 
 <!--
 **mhmitas/mhmitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

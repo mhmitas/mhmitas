@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 ## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmitas24)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-47A248?style=for-the-badge&logo=global&logoColor=white)](https://mhmitas.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-47A248?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhmitas.vercel.app)
 
 
 <!--

@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Mahfuzul Hoque Mitas
 Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.
 
+<img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="100%">
+
 ## Skills
 
 - **Languages**: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)

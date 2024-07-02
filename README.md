@@ -34,8 +34,9 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who l
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhmitas24)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white)](https://mhmitas.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmitas24)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-47A248?style=for-the-badge&logo=global&logoColor=white)](https://mhmitas.vercel.app)
+
 
 <!--
 **mhmitas/mhmitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

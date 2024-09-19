@@ -64,6 +64,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhmitas24)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-47A248?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mhmitas.vercel.app)
+<br/>
+```
+mahfuzulmitas@gmail.com
+```
 
 <br/><br/>
 

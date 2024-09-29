@@ -3,7 +3,7 @@
 
 <div align="center">
  <h1>Hi there <img src="https://github.com/mhmitas/mhmitas/blob/main/hi.gif?raw=true" width="50px" height="50px" alt="👋">, I'm Mahfuzul Hoque Mitas</h1>
- <h3>Welcome to my GitHub profile! I'm a passionate Fullstack Jr. Web Developer who loves creating beautiful and performant web applications.</h3>
+ <h3>Welcome to my GitHub profile! I'm a passionate Jr. Fullstack Web Developer who loves creating beautiful and performant web applications.</h3>
 </div>
 
 <br/><br/>
